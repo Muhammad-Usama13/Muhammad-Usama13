@@ -17,7 +17,6 @@ usama = {
     "education"  : "B.S. Artificial Intelligence — COMSATS University Islamabad (2025)",
     "focus"      : ["Agentic AI", "Computer Vision", "LLM Systems"],
     "currently"  : "Building LangGraph-powered AI agents with persistent memory",
-    "pursuing"   : "Fully Funded M.S. in AI @ Chinese University (CSC Scholarship)",
     "ask_me_about": ["LangGraph", "RAG", "YOLOv8", "FastAPI", "ReAct Agents"],
 }
 ```
@@ -57,74 +56,69 @@ usama = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Usama13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Usama13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Usama13&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+ 
 
-### 🔍 [CrowdGuard AI](https://github.com/YOUR_USERNAME/crowdguard-ai)
-> Real-time crowd behavior monitoring & surveillance system
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![RAFT](https://img.shields.io/badge/RAFT_Optical_Flow-blueviolet?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-Three-model pipeline: **YOLOv8** for person detection → **RAFT-sintel** for optical flow abnormality detection → **Gemini 2.0 Flash** for behavior classification with structured JSON output. Full-stack with React dashboard + Flutter Android app.
-
----
-
-### 🤖 [LangGraph AI Agent System](https://github.com/Muhammad-Usama13/langgraph-agent)
-> Agentic AI backend with persistent memory & threaded conversations
-
+ 
+### 🎓 [Autonomous AI Career Mentor](https://github.com/Muhammad-Usama13/ai-career-mentor)
+> Multi-agent career guidance system with personalized roadmap generation
+ 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-
-ReAct agent with `StateGraph`, conditional edges, and **AsyncMongoDBSaver** for persistent checkpointing. Threaded chat API with FastAPI supporting multi-turn conversations across sessions.
-
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+ 
+5-node **LangGraph pipeline** of specialized agents: Skill Analyzer → Career Planner → Skill Gap Analyzer → Learning Agent → Feedback Agent. Generates week-by-week learning roadmaps, role matches with salary data, and motivational feedback. Full-stack with React dashboard, progress tracking, and a conversational AI mentor chat.
+ 
 ---
-
-### 🔗 [Multi-LLM Structured Output Pipeline](https://github.com/Muhammad-Usama13/multi-llm-pipeline)
-> Provider-agnostic LLM pipeline with validated structured outputs
-
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-Unified pipeline integrating **Gemini**, **Groq**, and **OpenRouter** via raw API calls. Pydantic v2 models enforce strict structured output validation across all providers — no LangChain abstractions, full control.
-
----
-
-### 🧩 [ReAct Tool-Calling Agent](https://github.com/Muhammad-Usama13/react-tool-agent)
-> Reasoning + Acting agent with dynamic tool orchestration
-
+ 
+### 🔬 [Multi-Agent Research Assistant](https://github.com/Muhammad-Usama13/multi-agent-research-assistant)
+> 6-agent AI pipeline for automated research paper discovery, analysis & critique
+ 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Implements the **ReAct (Reason + Act)** loop using LangGraph's `StateGraph`. The agent dynamically selects and invokes tools based on reasoning traces, with conditional edges routing between tool execution and final response nodes.
-
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![ArXiv](https://img.shields.io/badge/ArXiv_API-B31B1B?style=flat-square)
+ 
+Six specialized agents — **Search → Reader → Summarizer → Explainer → Critic → Report Generator** — collaborate to turn any ArXiv paper or uploaded PDF into a structured 5-tab analysis in minutes. Outputs include plain-language explanations, glossaries, a 1–10 critique rating, and a fully exportable markdown report.
+ 
+---
+ 
+### 🎥 [Autonomous Video Surveillance Agent (AVSA)](https://github.com/Muhammad-Usama13/autonomous-video-surveillance-agents)
+> Production-grade multi-agent AI surveillance system with real-time anomaly detection
+ 
+![YOLOv8](https://img.shields.io/badge/YOLOv8m-FF6600?style=flat-square)
+![SEA-RAFT](https://img.shields.io/badge/SEA--RAFT_ECCV_2024-00e5ff?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA_12.x-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+ 
+6-agent collaborative pipeline: **Vision** (YOLOv8m FP16) → **Motion** (SEA-RAFT FP32, 22.9% better than RAFT) → **Behavior** (adaptive baseline learning) → **Reasoning** → **Report** (Gemini LLM incident reports) → **Alert** (WebSocket + SMTP). Detects crowd panic, overcrowding, fights, loitering — all thresholds auto-calibrated per video. ~45 FPS on RTX 4050.
+ 
 ---
 
 ## 📈 Activity Graph
 
-[![Usama's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Usama's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Usama13&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
