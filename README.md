@@ -17,7 +17,8 @@ usama = {
     "education"  : "B.S. Artificial Intelligence — COMSATS University Islamabad (2025)",
     "focus"      : ["Agentic AI", "Computer Vision", "LLM Systems"],
     "currently"  : "Building LangGraph-powered AI agents with persistent memory",
-    "ask_me_about": ["LangGraph", "RAG", "YOLOv8", "FastAPI", "ReAct Agents"],
+    "runs_on"    : "Local Machine — CUDA-accelerated GPU inference, no cloud needed",
+    "ask_me_about": ["LangGraph", "RAG", "YOLOv8", "FastAPI", "ReAct Agents", "CUDA Optimization"],
 }
 ```
 
@@ -50,6 +51,14 @@ usama = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+### ⚡ GPU & Local Inference
+![CUDA](https://img.shields.io/badge/CUDA_12.x-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![PyTorch CUDA](https://img.shields.io/badge/PyTorch_CUDA-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FP16](https://img.shields.io/badge/FP16_Mixed_Precision-00ADEF?style=for-the-badge&logo=nvidia&logoColor=white)
+![Local Machine](https://img.shields.io/badge/Local_Machine-No_Cloud_Needed-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+> 🖥️ All models run **locally on GPU** — no cloud inference. Experienced in CUDA programming, FP16/FP32 precision tuning, VRAM management, and optimizing real-time AI pipelines on consumer-grade hardware.
+
 ---
 
 ## 📊 GitHub Stats
@@ -70,12 +79,23 @@ usama = {
 ---
 
 ## 🚀 Featured Projects
- 
 
- 
+### 🔍 [CrowdGuard AI](https://github.com/Muhammad-Usama13/crowdguard-ai)
+> Real-time crowd behavior monitoring & surveillance system
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![RAFT](https://img.shields.io/badge/RAFT_Optical_Flow-blueviolet?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+Three-model pipeline: **YOLOv8** for person detection → **RAFT-sintel** for optical flow abnormality detection → **Gemini 2.0 Flash** for behavior classification with structured JSON output. Full-stack with React dashboard + Flutter Android app.
+
+---
+
 ### 🎓 [Autonomous AI Career Mentor](https://github.com/Muhammad-Usama13/ai-career-mentor)
 > Multi-agent career guidance system with personalized roadmap generation
- 
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -83,37 +103,37 @@ usama = {
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
- 
+
 5-node **LangGraph pipeline** of specialized agents: Skill Analyzer → Career Planner → Skill Gap Analyzer → Learning Agent → Feedback Agent. Generates week-by-week learning roadmaps, role matches with salary data, and motivational feedback. Full-stack with React dashboard, progress tracking, and a conversational AI mentor chat.
- 
+
 ---
- 
+
 ### 🔬 [Multi-Agent Research Assistant](https://github.com/Muhammad-Usama13/multi-agent-research-assistant)
 > 6-agent AI pipeline for automated research paper discovery, analysis & critique
- 
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![ArXiv](https://img.shields.io/badge/ArXiv_API-B31B1B?style=flat-square)
- 
+
 Six specialized agents — **Search → Reader → Summarizer → Explainer → Critic → Report Generator** — collaborate to turn any ArXiv paper or uploaded PDF into a structured 5-tab analysis in minutes. Outputs include plain-language explanations, glossaries, a 1–10 critique rating, and a fully exportable markdown report.
- 
+
 ---
- 
-### 🎥 [Autonomous Video Surveillance Agent (AVSA)](https://github.com/Muhammad-Usama13/autonomous-video-surveillance-agents)
+
+### 🎥 [Autonomous Video Surveillance Agent (AVSA)](https://github.com/Muhammad-Usama13/autonomous-video-surveillance-agent)
 > Production-grade multi-agent AI surveillance system with real-time anomaly detection
- 
+
 ![YOLOv8](https://img.shields.io/badge/YOLOv8m-FF6600?style=flat-square)
 ![SEA-RAFT](https://img.shields.io/badge/SEA--RAFT_ECCV_2024-00e5ff?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA_12.x-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
- 
+
 6-agent collaborative pipeline: **Vision** (YOLOv8m FP16) → **Motion** (SEA-RAFT FP32, 22.9% better than RAFT) → **Behavior** (adaptive baseline learning) → **Reasoning** → **Report** (Gemini LLM incident reports) → **Alert** (WebSocket + SMTP). Detects crowd panic, overcrowding, fights, loitering — all thresholds auto-calibrated per video. ~45 FPS on RTX 4050.
- 
+
 ---
 
 ## 📈 Activity Graph
