@@ -80,7 +80,7 @@ usama = {
 
 ## 🚀 Featured Projects
 
-### 🔍 [CrowdGuard AI](https://github.com/Muhammad-Usama13/crowdguard-ai)
+### 🔍 [Crowd Decoded](https://github.com/Muhammad-Usama13/Crowd-Decoded)
 > Real-time crowd behavior monitoring & surveillance system
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
@@ -122,7 +122,7 @@ Six specialized agents — **Search → Reader → Summarizer → Explainer → 
 
 ---
 
-### 🎥 [Autonomous Video Surveillance Agent (AVSA)](https://github.com/Muhammad-Usama13/autonomous-video-surveillance-agent)
+### 🎥 [Autonomous Video Surveillance Agent (AVSA)](https://github.com/Muhammad-Usama13/autonomous-video-surveillance-agents)
 > Production-grade multi-agent AI surveillance system with real-time anomaly detection
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8m-FF6600?style=flat-square)
